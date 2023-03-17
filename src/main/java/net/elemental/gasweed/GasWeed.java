@@ -1,6 +1,7 @@
 package net.elemental.gasweed;
 
 import com.mojang.logging.LogUtils;
+import net.elemental.gasweed.block.ModBlocks;
 import net.elemental.gasweed.item.ModItems;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -23,7 +24,8 @@ public class GasWeed
     public GasWeed()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
-        ModItems.register(modEventBus); // Properly registers any item(s) within ModItems class
+        ModItems.register(modEventBus);// Properly registers any item(s) within ModItems class
+        ModBlocks.register(modEventBus); // Properly registers any item(s) within ModBlocks class
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(this);
     }

@@ -21,15 +21,15 @@ modId="gasweed" #mandatory
 # see the associated build.gradle script for how to populate this completely automatically during a build
 version="0.0.1-1.19" #mandatory
  # A display name for the mod
-displayName="Gas Station Weed" #mandatory
+displayName="Elemental's Mo Items" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
 #updateJSONURL="https://change.me.example.invalid/updates.json" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
 # A file name (in the root of the mod JAR) containing a logo for display
-logoFile="examplemod.png" #optional
+logoFile="weedbanner.png" #optional
 # A text field displayed in the mod UI
-credits="Y'all mfs like that gas station weed?" #optional
+credits="Shoutout to the internet, funniest fellas on the planet." #optional
 # A text field displayed in the mod UI
 authors="Elemental" #optional
 # Display Test controls the display for your mod in the server connection screen
@@ -42,7 +42,7 @@ authors="Elemental" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Just a lonely world where gas station weed takes over! :)
+Funny mod that adds a handful of various items! :) Cheese cubes, tools, and armor - other items too!
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.gasweed]] #optional
