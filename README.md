@@ -1,7 +1,7 @@
 # Mo Items Mod
 
 
-Minecraft Mod for version ``` 1.19 ``` that adds various items such as Cheese Tools, Cubes, and Armor.
+Minecraft Mod for version ``` 1.19 ``` that adds various items such as Cheese Tools, Cubes, and Armor. This mod is **WIP** and will see continuous development overtime.
 
 
 ## Installation Requirements
@@ -14,7 +14,7 @@ Minecraft Mod for version ``` 1.19 ``` that adds various items such as Cheese To
 ## Features
 
 This mod adds several items with various features
-- Gas Station Weed **WIP**
+- Gas Station Weed 
 - Cheese
 - Cheese Cube
 - Cheese Tools
