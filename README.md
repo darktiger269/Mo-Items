@@ -14,7 +14,6 @@ Minecraft Mod for version ``` 1.19 ``` that adds various items such as Cheese To
 ## Features
 
 This mod adds several items with various features
-- Gas Station Weed 
 - Cheese
 - Cheese Cube
 - Cheese Tools
